@@ -1,0 +1,23 @@
+[
+  {
+    "id": "SAIS2T5001",
+    "theme": "Technology for Physically challenged People",
+    "name": "Sample School One",
+    "projId": "SAPYTPC01",
+    "tNo": "B4"
+  },
+  {
+    "id": "SAIS2T5002",
+    "theme": "Technology for Physically challenged People",
+    "name": "Sample School Two",
+    "projId": "SAPYTPC02",
+    "tNo": "B5"
+  },
+  {
+    "id": "SAIS2T5003",
+    "theme": "Technology for Physically challenged People",
+    "name": "Sample School Three",
+    "projId": "SAPYTPC03",
+    "tNo": "B6"
+  }
+]

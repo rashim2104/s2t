@@ -1,0 +1,32 @@
+[
+  {
+    "_id": {
+      "$oid": "677e0040e9ab30c848ddf807"
+    },
+    "id": "SAIS2T5001",
+    "name": "Sample School One",
+    "deskNo": 1,
+    "deskHead": "Prof. John Doe",
+    "deskheadPhoneNumber": "9999999999"
+  },
+  {
+    "_id": {
+      "$oid": "677e0040e9ab30c848ddf808"
+    },
+    "id": "SAIS2T5002",
+    "name": "Sample School Two",
+    "deskNo": 2,
+    "deskHead": "Prof. Jane Doe",
+    "deskheadPhoneNumber": "8888888888"
+  },
+  {
+    "_id": {
+      "$oid": "677e0040e9ab30c848ddf809"
+    },
+    "id": "SAIS2T5003",
+    "name": "Sample School Three",
+    "deskNo": 3,
+    "deskHead": "Prof. John Doe",
+    "deskheadPhoneNumber": "7777777777"
+  }
+]

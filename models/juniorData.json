@@ -1,0 +1,23 @@
+[
+  {
+    "id": "SAIS2T5001",
+    "theme": "Smart Agriculture",
+    "name": "Sample School One",
+    "projId": "SAPJSA001",
+    "tNo": "I1"
+  },
+  {
+    "id": "SAIS2T5002",
+    "theme": "Smart Agriculture",
+    "name": "Sample School Two",
+    "projId": "SAPJSA002",
+    "tNo": "I2"
+  },
+  {
+    "id": "SAIS2T5003",
+    "theme": "Smart Agriculture",
+    "name": "Sample School Three",
+    "projId": "SAPJSA003",
+    "tNo": "I3"
+  }
+]
